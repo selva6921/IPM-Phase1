@@ -56,7 +56,7 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
 bash
-git clone [https://github.com/12-arun05/IBM-Phase1.git]
+git clone [https://github.com/selva6921/IPM-Phase1.git]
 cd stock-price-prediction
 
 
@@ -173,7 +173,7 @@ pip install -r requirements.txt
 1. Clone this repository to your local machine:
 
 
-git clone [https://github.com/12-arun05/IBM-Phase1.git]
+git clone [https://github.com/selva6921/IPM-Phase1.git]
 cd stock-price-prediction
 
 
